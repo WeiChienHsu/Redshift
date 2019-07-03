@@ -19,7 +19,6 @@
     - [Step 6: Vacuum and Analyze the Database](#Step-6-Vacuum-and-Analyze-the-Database)
     - [Step 7: Clean Up Your Resources](#Step-7-Clean-Up-Your-Resources)
   - [Tutorial: Tuning Table Design](#Tutorial-Tuning-Table-Design)
-- [](#)
 - [Resources](#Resources)
 
 # Intro Redshift
@@ -191,9 +190,8 @@ Your cluster continues to accrue charges as long as it is running. When you have
 
 https://docs.aws.amazon.com/redshift/latest/dg/tutorial-tuning-tables.html
 
-***
 
-# 
+
 
 ***
 
